@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @r3d_b3ryl
+# 👋 Hi, I’m kohnosuke
 
 
 Qiita: [https://qiita.com/r3d_b3ryl](https://qiita.com/r3d_b3ryl)
