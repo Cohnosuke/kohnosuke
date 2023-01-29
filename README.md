@@ -1,7 +1,8 @@
 # 👋 Hi, I’m kohnosuke
 
 
-Qiita: [https://qiita.com/r3d_b3ryl](https://qiita.com/r3d_b3ryl)
+Qiita: [https://qiita.com/kohnosuke](https://qiita.com/kohnosuke)
+SpeakerDeck: [https://speakerdeck.com/kohnosuke](https://speakerdeck.com/kohnosuke)
 
 Paiza:
 
